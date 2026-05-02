@@ -1,0 +1,9 @@
+{
+  "name": "docx-service",
+  "version": "1.0.0",
+  "description": "DOCX Generation Service für n8n Workflows",
+  "dependencies": {
+    "docxtemplater": "^3.49.0",
+    "pizzip": "^3.1.7"
+  }
+}
